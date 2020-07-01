@@ -1,4 +1,4 @@
-# python_data_mining
+# python-data-mining
 A python module for my university data mining project
 
 # data_mining
